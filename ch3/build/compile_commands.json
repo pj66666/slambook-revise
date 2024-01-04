@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/home/pj/pj/revise_book/ch3/build",
+  "command": "/usr/bin/g++  -DFMT_LOCALE -DGFLAGS_IS_A_DLL=0 -I/home/pj/pj/revise_book/ch3/include -isystem /usr/include/eigen3  -w -g -w   -std=gnu++17 -o CMakeFiles/process_gnss.dir/exe/process_gnss.cc.o -c /home/pj/pj/revise_book/ch3/exe/process_gnss.cc",
+  "file": "/home/pj/pj/revise_book/ch3/exe/process_gnss.cc"
+},
+{
+  "directory": "/home/pj/pj/revise_book/ch3/build",
+  "command": "/usr/bin/g++  -DFMT_LOCALE -DGFLAGS_IS_A_DLL=0 -I/home/pj/pj/revise_book/ch3/include -isystem /usr/include/eigen3  -w -g -w   -std=gnu++17 -o CMakeFiles/run_eskf_gins.dir/exe/run_eskf_gins.cc.o -c /home/pj/pj/revise_book/ch3/exe/run_eskf_gins.cc",
+  "file": "/home/pj/pj/revise_book/ch3/exe/run_eskf_gins.cc"
+},
+{
+  "directory": "/home/pj/pj/revise_book/ch3/build",
+  "command": "/usr/bin/g++  -DFMT_LOCALE -DGFLAGS_IS_A_DLL=0 -I/home/pj/pj/revise_book/ch3/include -isystem /usr/include/eigen3  -w -g -w   -std=gnu++17 -o CMakeFiles/run_imu_integration.dir/exe/run_imu_integration.cc.o -c /home/pj/pj/revise_book/ch3/exe/run_imu_integration.cc",
+  "file": "/home/pj/pj/revise_book/ch3/exe/run_imu_integration.cc"
+},
+{
+  "directory": "/home/pj/pj/revise_book/ch3/build",
+  "command": "/usr/bin/g++   -I/usr/include/eigen3 -I/home/pj/pj/revise_book/ch3/include  -w -g -w   -std=gnu++17 -o CMakeFiles/other.dir/src/io_utils.cc.o -c /home/pj/pj/revise_book/ch3/src/io_utils.cc",
+  "file": "/home/pj/pj/revise_book/ch3/src/io_utils.cc"
+},
+{
+  "directory": "/home/pj/pj/revise_book/ch3/build",
+  "command": "/usr/bin/g++   -I/usr/include/eigen3 -I/home/pj/pj/revise_book/ch3/include  -w -g -w   -std=gnu++17 -o CMakeFiles/other.dir/src/utm_convert.cc.o -c /home/pj/pj/revise_book/ch3/src/utm_convert.cc",
+  "file": "/home/pj/pj/revise_book/ch3/src/utm_convert.cc"
+},
+{
+  "directory": "/home/pj/pj/revise_book/ch3/build",
+  "command": "/usr/bin/g++   -I/usr/include/eigen3 -I/home/pj/pj/revise_book/ch3/include  -w -g -w   -std=gnu++17 -o CMakeFiles/other.dir/src/utm.cc.o -c /home/pj/pj/revise_book/ch3/src/utm.cc",
+  "file": "/home/pj/pj/revise_book/ch3/src/utm.cc"
+},
+{
+  "directory": "/home/pj/pj/revise_book/ch3/build",
+  "command": "/usr/bin/g++   -I/usr/include/eigen3 -I/home/pj/pj/revise_book/ch3/include  -w -g -w   -std=gnu++17 -o CMakeFiles/other.dir/src/tranmerc.cc.o -c /home/pj/pj/revise_book/ch3/src/tranmerc.cc",
+  "file": "/home/pj/pj/revise_book/ch3/src/tranmerc.cc"
+},
+{
+  "directory": "/home/pj/pj/revise_book/ch3/build",
+  "command": "/usr/bin/g++   -I/usr/include/eigen3 -I/home/pj/pj/revise_book/ch3/include  -w -g -w   -std=gnu++17 -o CMakeFiles/other.dir/src/static_imu_init.cc.o -c /home/pj/pj/revise_book/ch3/src/static_imu_init.cc",
+  "file": "/home/pj/pj/revise_book/ch3/src/static_imu_init.cc"
+}
+]

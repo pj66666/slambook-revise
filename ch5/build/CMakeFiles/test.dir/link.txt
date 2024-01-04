@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libtest.a  CMakeFiles/test.dir/src/kdtree.cpp.o CMakeFiles/test.dir/src/octo_tree.cpp.o CMakeFiles/test.dir/src/bfnn.cpp.o CMakeFiles/test.dir/src/point_cloud_utils.cpp.o
+/usr/bin/ranlib ../lib/libtest.a

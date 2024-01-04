@@ -1,0 +1,1 @@
+/usr/bin/g++  -w -g -w   CMakeFiles/process_gnss.dir/exe/process_gnss.cc.o  -o ../bin/process_gnss  -lglog /usr/local/lib/libgflags.a ../lib/libother.a -lpthread /usr/lib/x86_64-linux-gnu/libfmt.a 

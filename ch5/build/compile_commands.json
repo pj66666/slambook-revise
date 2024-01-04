@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/home/pj/pj/test_book/build",
+  "command": "/usr/bin/g++  -DDISABLE_LIBUSB_1_0 -DDISABLE_PCAP -DDISABLE_PNG -DGFLAGS_IS_A_DLL=0 -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL2)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2)\" -I/home/pj/pj/test_book/sophus -I/home/pj/pj/test_book/include -I/home/pj/pj/test_book -isystem /usr/include/eigen3 -isystem /usr/include/vtk-7.1 -isystem /usr/include/freetype2 -isystem /usr/include/pcl-1.10 -isystem /usr/include/ni -isystem /usr/include/openni2 -isystem /usr/include/opencv4  -w  -g -w   -std=gnu++17 -o CMakeFiles/linear_fitting.dir/src/linear_fitting.cpp.o -c /home/pj/pj/test_book/src/linear_fitting.cpp",
+  "file": "/home/pj/pj/test_book/src/linear_fitting.cpp"
+},
+{
+  "directory": "/home/pj/pj/test_book/build",
+  "command": "/usr/bin/g++  -DDISABLE_LIBUSB_1_0 -DDISABLE_PCAP -DDISABLE_PNG -DGFLAGS_IS_A_DLL=0 -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL2)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2)\" -I/home/pj/pj/test_book/sophus -I/home/pj/pj/test_book/include -I/home/pj/pj/test_book -isystem /usr/include/eigen3 -isystem /usr/include/vtk-7.1 -isystem /usr/include/freetype2 -isystem /usr/include/pcl-1.10 -isystem /usr/include/ni -isystem /usr/include/openni2 -isystem /usr/include/opencv4  -w  -g -w   -std=gnu++17 -o CMakeFiles/test_nn.dir/src/test_nn.cpp.o -c /home/pj/pj/test_book/src/test_nn.cpp",
+  "file": "/home/pj/pj/test_book/src/test_nn.cpp"
+},
+{
+  "directory": "/home/pj/pj/test_book/build",
+  "command": "/usr/bin/g++  -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL2)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2)\" -I/usr/include/eigen3 -I/home/pj/pj/test_book/sophus -I/usr/include/vtk-7.1 -I/usr/include/freetype2 -I/home/pj/pj/test_book/include -I/home/pj/pj/test_book -I/usr/include/pcl-1.10 -I/usr/include/ni -I/usr/include/openni2 -I/usr/include/opencv4  -w  -g -w   -std=gnu++17 -o CMakeFiles/test.dir/src/kdtree.cpp.o -c /home/pj/pj/test_book/src/kdtree.cpp",
+  "file": "/home/pj/pj/test_book/src/kdtree.cpp"
+},
+{
+  "directory": "/home/pj/pj/test_book/build",
+  "command": "/usr/bin/g++  -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL2)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2)\" -I/usr/include/eigen3 -I/home/pj/pj/test_book/sophus -I/usr/include/vtk-7.1 -I/usr/include/freetype2 -I/home/pj/pj/test_book/include -I/home/pj/pj/test_book -I/usr/include/pcl-1.10 -I/usr/include/ni -I/usr/include/openni2 -I/usr/include/opencv4  -w  -g -w   -std=gnu++17 -o CMakeFiles/test.dir/src/octo_tree.cpp.o -c /home/pj/pj/test_book/src/octo_tree.cpp",
+  "file": "/home/pj/pj/test_book/src/octo_tree.cpp"
+},
+{
+  "directory": "/home/pj/pj/test_book/build",
+  "command": "/usr/bin/g++  -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL2)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2)\" -I/usr/include/eigen3 -I/home/pj/pj/test_book/sophus -I/usr/include/vtk-7.1 -I/usr/include/freetype2 -I/home/pj/pj/test_book/include -I/home/pj/pj/test_book -I/usr/include/pcl-1.10 -I/usr/include/ni -I/usr/include/openni2 -I/usr/include/opencv4  -w  -g -w   -std=gnu++17 -o CMakeFiles/test.dir/src/bfnn.cpp.o -c /home/pj/pj/test_book/src/bfnn.cpp",
+  "file": "/home/pj/pj/test_book/src/bfnn.cpp"
+},
+{
+  "directory": "/home/pj/pj/test_book/build",
+  "command": "/usr/bin/g++  -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL2)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2)\" -I/usr/include/eigen3 -I/home/pj/pj/test_book/sophus -I/usr/include/vtk-7.1 -I/usr/include/freetype2 -I/home/pj/pj/test_book/include -I/home/pj/pj/test_book -I/usr/include/pcl-1.10 -I/usr/include/ni -I/usr/include/openni2 -I/usr/include/opencv4  -w  -g -w   -std=gnu++17 -o CMakeFiles/test.dir/src/point_cloud_utils.cpp.o -c /home/pj/pj/test_book/src/point_cloud_utils.cpp",
+  "file": "/home/pj/pj/test_book/src/point_cloud_utils.cpp"
+},
+{
+  "directory": "/home/pj/pj/test_book/build",
+  "command": "/usr/bin/g++  -DDISABLE_LIBUSB_1_0 -DDISABLE_PCAP -DDISABLE_PNG -DGFLAGS_IS_A_DLL=0 -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL2)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2)\" -I/home/pj/pj/test_book/sophus -I/home/pj/pj/test_book/include -I/home/pj/pj/test_book -isystem /usr/include/eigen3 -isystem /usr/include/vtk-7.1 -isystem /usr/include/freetype2 -isystem /usr/include/pcl-1.10 -isystem /usr/include/ni -isystem /usr/include/openni2 -isystem /usr/include/opencv4  -w  -g -w   -std=gnu++17 -o CMakeFiles/scan_to_range_image.dir/src/scan_to_range_image.cpp.o -c /home/pj/pj/test_book/src/scan_to_range_image.cpp",
+  "file": "/home/pj/pj/test_book/src/scan_to_range_image.cpp"
+},
+{
+  "directory": "/home/pj/pj/test_book/build",
+  "command": "/usr/bin/g++  -DDISABLE_LIBUSB_1_0 -DDISABLE_PCAP -DDISABLE_PNG -DGFLAGS_IS_A_DLL=0 -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL2)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2)\" -I/home/pj/pj/test_book/sophus -I/home/pj/pj/test_book/include -I/home/pj/pj/test_book -I/usr/include/opencv4 -isystem /usr/include/eigen3 -isystem /usr/include/vtk-7.1 -isystem /usr/include/freetype2 -isystem /usr/include/pcl-1.10 -isystem /usr/include/ni -isystem /usr/include/openni2  -w  -g -w   -std=gnu++17 -o CMakeFiles/point_cloud_load_and_vis.dir/src/point_cloud_load_and_vis.cpp.o -c /home/pj/pj/test_book/src/point_cloud_load_and_vis.cpp",
+  "file": "/home/pj/pj/test_book/src/point_cloud_load_and_vis.cpp"
+},
+{
+  "directory": "/home/pj/pj/test_book/build",
+  "command": "/usr/bin/g++  -DDISABLE_LIBUSB_1_0 -DDISABLE_PCAP -DDISABLE_PNG -DGFLAGS_IS_A_DLL=0 -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL2)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2)\" -I/home/pj/pj/test_book/sophus -I/home/pj/pj/test_book/include -I/home/pj/pj/test_book -isystem /usr/include/eigen3 -isystem /usr/include/vtk-7.1 -isystem /usr/include/freetype2 -isystem /usr/include/pcl-1.10 -isystem /usr/include/ni -isystem /usr/include/openni2 -isystem /usr/include/opencv4  -w  -g -w   -std=gnu++17 -o CMakeFiles/pcd_to_bird_eye.dir/src/pcd_to_bird_eye.cpp.o -c /home/pj/pj/test_book/src/pcd_to_bird_eye.cpp",
+  "file": "/home/pj/pj/test_book/src/pcd_to_bird_eye.cpp"
+}
+]

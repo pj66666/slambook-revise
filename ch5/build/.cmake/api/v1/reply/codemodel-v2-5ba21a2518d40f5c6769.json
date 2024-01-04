@@ -1,0 +1,104 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "test",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "linear_fitting::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-linear_fitting-Debug-79aeef0716c24f6b12ab.json",
+					"name" : "linear_fitting",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pcd_to_bird_eye::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pcd_to_bird_eye-Debug-53b77936d02bdd7e2d06.json",
+					"name" : "pcd_to_bird_eye",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "point_cloud_load_and_vis::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-point_cloud_load_and_vis-Debug-700128db2d9bc78dde96.json",
+					"name" : "point_cloud_load_and_vis",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "scan_to_range_image::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-scan_to_range_image-Debug-d381de0da469abac0963.json",
+					"name" : "scan_to_range_image",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test-Debug-e241fffc1173a8bec497.json",
+					"name" : "test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_nn::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_nn-Debug-cdf4036660b2923a3ac6.json",
+					"name" : "test_nn",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/pj/pj/test_book/build",
+		"source" : "/home/pj/pj/test_book"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

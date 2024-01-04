@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libother.a  CMakeFiles/other.dir/src/io_utils.cc.o CMakeFiles/other.dir/src/utm_convert.cc.o CMakeFiles/other.dir/src/utm.cc.o CMakeFiles/other.dir/src/tranmerc.cc.o CMakeFiles/other.dir/src/static_imu_init.cc.o
+/usr/bin/ranlib ../lib/libother.a

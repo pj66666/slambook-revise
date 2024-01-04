@@ -1,0 +1,86 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "test",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "other::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-other-Debug-8104171f37721c108b97.json",
+					"name" : "other",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "process_gnss::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-process_gnss-Debug-acd47efbc6bc952091a0.json",
+					"name" : "process_gnss",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "run_eskf_gins::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-run_eskf_gins-Debug-2ce70fbec0e616048740.json",
+					"name" : "run_eskf_gins",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "run_imu_integration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-run_imu_integration-Debug-2691f77dd386a504223d.json",
+					"name" : "run_imu_integration",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/pj/pj/revise_book/ch3/build",
+		"source" : "/home/pj/pj/revise_book/ch3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

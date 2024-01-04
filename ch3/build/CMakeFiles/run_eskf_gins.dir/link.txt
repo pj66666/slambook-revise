@@ -1,0 +1,1 @@
+/usr/bin/g++  -w -g -w   CMakeFiles/run_eskf_gins.dir/exe/run_eskf_gins.cc.o  -o ../bin/run_eskf_gins  -lglog /usr/local/lib/libgflags.a ../lib/libother.a -lpthread /usr/lib/x86_64-linux-gnu/libfmt.a 
